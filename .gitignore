@@ -20,3 +20,4 @@ doc/
 
 #jbfink specific stuff
 .rvmrc
+config.ru
